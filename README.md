@@ -1,16 +1,16 @@
-### Hi there 👋
+# Hola!
 
-<!--
-**sladg/sladg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Whoami
 
-Here are some ideas to get you started:
+I'm Jan! Head of Development @U+ | Architect, Tech Lead
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Anything can run on AWS Lambda (PHP, Rust, C, Node, Python, all doable).
+
+## Projects
+
+I specialiase in tech consulting, tech management and backend micro-projects.
+I can write recommendation and feedback on anything related to technical projects. I'm good with startups, freelancers, corporates as well as government (experienced it all). Microservices and binary-based projects are awesome!
+
+## Bio
+
+Check-out my Linkedin (Li is still king): https://www.linkedin.com/in/j-soukup/
