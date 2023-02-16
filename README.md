@@ -24,3 +24,14 @@ Check-out my Linkedin (Li is still king): https://www.linkedin.com/in/j-soukup/
 - Node (TS): Express, Prisma, Nest, binaries on Lambda, Multer, Sharp, Pino, encryption & security,
 - Browser (TS): Next, React, Tailwind, StyledComponents, Mui, Emotion, DayJS (fuk moment), yup, react-hook-forms (and any react-hooks really),
 - Misc: NPM modules setup & publishing, Eslint & prettier freak.
+
+## List of stuff I did
+
+- Image optimization in serverless, major european ecommerce,
+- File browser, React virtual DOM with thousands of files, scrolling, file actions,
+- Corporate property management, lot of monoliths, breaking down to microservices, dealing with skeptical management,
+- VR/AR/big data, transpiling huge files, conversions between formats, speed optimitaions, visualization in WebGL,
+- IoT, ESPhome, WLED, making stuff comunicate between each other (mostly higher-level programing),
+- Lead multiple teams, across multiple projects, coordinate client and developers, sync expectations, own projects,
+- Project manage multiple dev & product teams, setup Jira, set processes for Confluence, for onboarding, for hiring ....
+- more might come <3
