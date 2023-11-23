@@ -33,5 +33,7 @@ Check-out my Linkedin (Li is still king): https://www.linkedin.com/in/j-soukup/
 - VR/AR/big data, transpiling huge files, conversions between formats, speed optimitaions, visualization in WebGL,
 - IoT, ESPhome, WLED, making stuff comunicate between each other (mostly higher-level programing),
 - Lead multiple teams, across multiple projects, coordinate client and developers, sync expectations, own projects,
-- Project manage multiple dev & product teams, setup Jira, set processes for Confluence, for onboarding, for hiring ....
+- Project manage multiple dev & product teams, setup Jira, set processes (including documentation) for onboarding, for hiring, resource re-allocation,
+- Migration of 250k users from on-prem system to Auth0 (Okta), led solution architecture of impacted systems,
+- Architecture of enterprise application with effort on integrating 3rd party services (RealPage, Brivo, Ruckus, etc.),
 - more might come <3
