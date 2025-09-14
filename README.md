@@ -2,7 +2,7 @@
 
 ## Whoami
 
-I'm Jan! Head of Development @U+ | Architect, Tech Lead
+I'm Jan! UI TechLead @Barclays
 
 Anything can run on AWS Lambda (PHP, Rust, C, Node, Python, all doable).
 
