@@ -38,6 +38,3 @@ Check-out my Linkedin (Li is still king): https://www.linkedin.com/in/j-soukup/
 - Architecture of enterprise application with effort on integrating 3rd party services (RealPage, Brivo, Ruckus, etc.),
 - more might come <3
 
-## Useful links I keep for myself
-
-- Next env vars, build time, replacing values https://notes.dt.in.th/NextRuntimeEnv
